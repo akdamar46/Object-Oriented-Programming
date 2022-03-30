@@ -1,2 +1,2 @@
-# Object-Oriented-Programming
-Object Oriented Programming course project assignment 1.
+# Object-Oriented-Programming Project
+Object Oriented Programming course project assignments.
